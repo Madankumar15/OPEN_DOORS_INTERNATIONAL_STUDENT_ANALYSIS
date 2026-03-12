@@ -230,11 +230,4 @@ python src/final_step_prophet_forecasting.py
 - Taylor, S. J., & Letham, B. (2018). Forecasting at scale. *The American Statistician*, 72(1), 37-45.
 - Box, G. E. P., & Jenkins, G. M. (1970). *Time Series Analysis: Forecasting and Control*.
 
-## License
 
-MIT License - see LICENSE file for details.
-
----
-
-**Status**: Analysis Complete | Model Operational  
-**Last Updated**: March 2026
